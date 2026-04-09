@@ -16,10 +16,11 @@
 
 ## 📊 Projects
 - Healthcare Analytics Dashboard (Power BI)
+- HR Analytics Dashboard (Power BI)
 
 ## 📌 Currently Learning
 - Python for Data Analysis
-- Advanced DAX
+- Advance DAX
 
 ---
 
